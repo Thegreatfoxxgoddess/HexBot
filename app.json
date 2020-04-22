@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/emperor-akashi-4/HexBot",
+  "repository": "https://github.com/emperor-akashi-4/HexBot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -32,8 +32,8 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
-      "value": ""
-	  "required": false
+      "value": "",
+      "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
       "description": "Maximum number of messages a person can send in pm before getting blocked. Value must be an integer. 3 by default.",
