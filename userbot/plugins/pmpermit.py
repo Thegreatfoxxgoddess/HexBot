@@ -13,9 +13,9 @@ CACHE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME In Heroku!"
 USER_BOT_WARN_ZERO = "`You Were Spamming My Inbox, Hence You Are Blocked!`"
-USER_BOT_NO_WARN = ("Hey There! "
-                    "As You Can See, That I'm Not Online!\n"
-                    f"So, Leave Your Message\n"
+USER_BOT_NO_WARN = ("`Hey There!`\n"
+                    "`As You Can See, That I'm Not Online!`\n"
+                    f"`So, Leave Your Message`\n\n"
                     "**DON'T SPAM MY INBOX!**")
 
 
